@@ -1,0 +1,6 @@
+{
+  "name": "Doxon AI",
+  "description": "An advanced Kind, Empathetic AI Chat Assistant with Persistent Cross-Chat Memory, Day/Night Dynamic Theme, and High-Speed Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
